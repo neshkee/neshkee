@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with becoming a Software Engineer<br>🌱 I’m currently learning Java programming language (Uni + Udemy course)<br>⚡ 3rd year at Faculty of Organizational Sciences, University of Belgrade<br>👨‍💻 Profession-Profile: IT
+🤝 I’m looking for help with becoming a Software Engineer<br>🌱 I’m currently learning Java programming language (Uni + Udemy course)<br>⚡ 4th year at Faculty of Organizational Sciences, University of Belgrade<br>👨‍💻 Profession-Profile: IT
 
 
 ## 🌐 Socials:
